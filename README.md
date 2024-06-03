@@ -1,8 +1,5 @@
-## Template para projetos Java no GitHub Codespaces
+## POO - Introdução ao Java
 
-Esse repositório contém um template para projetos Java no GitHub Codespaces. 
-
-Procedimento sugerido para gerar um novo projeto:
-
-1. Crie um novo repositório a partir desse template (por exemplo, crie um "fork" desse repositório).
-2. A partir do repositório criado, clique em "Code", aba "Codespaces" e depois em "New codespace".
+1. Tipagem estática (verifica os tipos no momento da compilação) e forte (variavéis não podem ser alteradas);
+2. Existem dois grupos de tipos no java: Tipo Primitivos (int, char, float, etc.) e Tipos de Referência (Objetos);
+    > Referência -> semelhante ao conceito de ponteiros.
