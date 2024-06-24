@@ -5,7 +5,7 @@ public class TiposPrimitivos{
         int i = 30; //4 bytes
         long l = 40; //8 bytes
 
-        float f = 1.0; //4 bytes
+        float f = 10/3; //4 bytes
         double d = 2.0; //8 bytes
 
         char c = 'a'; //2 bytes
